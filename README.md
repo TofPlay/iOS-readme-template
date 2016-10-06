@@ -1,12 +1,12 @@
 # Product Name
 > Short blurb about what your product does.
 
-[![Swift Version][swift-image]][swift-url]
-[![Build Status][travis-image]][travis-url]
-[![License][license-image]][license-url]
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/EZSwiftExtensions.svg)](https://img.shields.io/cocoapods/v/LFAlertController.svg)  
-[![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-brightgreen.svg)](https://github.com/Carthage/Carthage) 
+[![SwiftPM compatible](https://img.shields.io/badge/SwiftPM-compatible-brightgreen.svg)](https://github.com/apple/swift-package-manager) 
+[![Pod Version](https://img.shields.io/badge/Pod-9.9.9-6193DF.svg)](https://cocoapods.org/)
+![Swift Version](https://img.shields.io/badge/Swift-3.0-orange.svg) 
+![License MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg) 
+![Plaform](https://img.shields.io/badge/Platform-macOS | iOS | tvOS | watchOS-lightgrey.svg)
 
 One to two paragraph statement about your product and what it does.
 
