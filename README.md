@@ -49,7 +49,7 @@ Create a `Cartfile` that lists the framework and run `carthage update`. Follow t
 github "yourUsername/yourlibrary"
 ```
 
-#### Swift Package Manager
+#### SwiftPM
 
 yourlibrary is also available for installation using the [Swift Package Manager](https://goo.gl/E01ufX). Add the following to your Package.swift:
 
