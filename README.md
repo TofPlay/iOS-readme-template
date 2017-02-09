@@ -51,7 +51,7 @@ github "yourUsername/yourlibrary"
 
 #### Swift Package Manager
 
-<yourlibrary> is also available for installation using the [Swift Package Manager](https://goo.gl/E01ufX). Add the following to your Package.swift:
+yourlibrary is also available for installation using the [Swift Package Manager](https://goo.gl/E01ufX). Add the following to your Package.swift:
 
 ```swift
 import PackageDescription
