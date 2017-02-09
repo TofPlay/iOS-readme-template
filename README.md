@@ -58,12 +58,6 @@ use_frameworks!
 pod 'YourLibrary'
 ```
 
-To get the full benefits import `YourLibrary` wherever you import UIKit
-
-``` swift
-import UIKit
-import YourLibrary
-```
 #### Manually
 1. Download and drop ```YourLibrary.swift``` in your project.  
 2. Congratulations!  
