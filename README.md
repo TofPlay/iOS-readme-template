@@ -48,6 +48,20 @@ Create a `Cartfile` that lists the framework and run `carthage update`. Follow t
 ```
 github "yourUsername/yourlibrary"
 ```
+
+#### Swift Package Manager
+
+<yourlibrary> is also available for installation using the [Swift Package Manager](https://goo.gl/E01ufX). Add the following to your Package.swift:
+
+import PackageDescription
+
+let package = Package(
+    name: "MyProject",
+    dependencies: [
+        .Package(url: "https://github.com/yourUsername/yourlibrary.git", majorVersion: 0),
+    ]
+)
+
 #### Manually
 1. Download and drop ```YourLibrary.swift``` in your project.  
 2. Congratulations!  
