@@ -1,5 +1,5 @@
 # Product Name
-> Short blurb about what your product does.
+Short blurb about what your product does.
 
 [![SwiftPM compatible](https://img.shields.io/badge/SwiftPM-compatible-brightgreen.svg)](https://github.com/apple/swift-package-manager) 
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-brightgreen.svg)](https://github.com/Carthage/Carthage) 
@@ -22,8 +22,8 @@ One to two paragraph statement about your product and what it does.
 
 ## Requirements
 
-- iOS 8.0+
-- Xcode 7.3
+- iOS 10.0+
+- Xcode 8.2
 
 ## Installation
 
