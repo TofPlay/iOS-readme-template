@@ -1,8 +1,8 @@
 # Product Name
 > Short blurb about what your product does.
 
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-brightgreen.svg)](https://github.com/Carthage/Carthage) 
 [![SwiftPM compatible](https://img.shields.io/badge/SwiftPM-compatible-brightgreen.svg)](https://github.com/apple/swift-package-manager) 
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-brightgreen.svg)](https://github.com/Carthage/Carthage) 
 [![Pod Version](https://img.shields.io/badge/Pod-9.9.9-6193DF.svg)](https://cocoapods.org/)
 ![Swift Version](https://img.shields.io/badge/Swift-3.0-orange.svg) 
 ![License MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg) 
@@ -27,28 +27,6 @@ One to two paragraph statement about your product and what it does.
 
 ## Installation
 
-#### CocoaPods
-You can use [CocoaPods](http://cocoapods.org/) to install `YourLibrary` by adding it to your `Podfile`:
-
-```ruby
-platform :ios, '8.0'
-use_frameworks!
-pod 'YourLibrary'
-```
-
-To get the full benefits import `YourLibrary` wherever you import UIKit
-
-``` swift
-import UIKit
-import YourLibrary
-```
-#### Carthage
-Create a `Cartfile` that lists the framework and run `carthage update`. Follow the [instructions](https://github.com/Carthage/Carthage#if-youre-building-for-ios) to add `$(SRCROOT)/Carthage/Build/iOS/YourLibrary.framework` to an iOS project.
-
-```
-github "yourUsername/yourlibrary"
-```
-
 #### SwiftPM
 
 *yourlibrary* is also available for installation using the [Swift Package Manager](https://goo.gl/E01ufX). Add the following to your `Package.swift`:
@@ -64,6 +42,28 @@ let package = Package(
 )
 ```
 
+#### Carthage
+Create a `Cartfile` that lists the framework and run `carthage update`. Follow the [instructions](https://github.com/Carthage/Carthage#if-youre-building-for-ios) to add `$(SRCROOT)/Carthage/Build/iOS/YourLibrary.framework` to an iOS project.
+
+```
+github "yourUsername/yourlibrary"
+```
+
+#### CocoaPods
+You can use [CocoaPods](http://cocoapods.org/) to install `YourLibrary` by adding it to your `Podfile`:
+
+```ruby
+platform :ios, '8.0'
+use_frameworks!
+pod 'YourLibrary'
+```
+
+To get the full benefits import `YourLibrary` wherever you import UIKit
+
+``` swift
+import UIKit
+import YourLibrary
+```
 #### Manually
 1. Download and drop ```YourLibrary.swift``` in your project.  
 2. Congratulations!  
