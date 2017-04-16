@@ -1,6 +1,7 @@
 # Product Name
 Short blurb about what your product does.
 
+[![Build Status](https://travis-ci.org/YourAccount/YourProject.svg?branch=master)](https://travis-ci.org/YourAccount/YourProject)
 [![SwiftPM compatible](https://img.shields.io/badge/SwiftPM-compatible-brightgreen.svg)](https://github.com/apple/swift-package-manager) 
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-brightgreen.svg)](https://github.com/Carthage/Carthage) 
 [![Pod Version](https://img.shields.io/badge/Pod-9.9.9-6193DF.svg)](https://cocoapods.org/)
