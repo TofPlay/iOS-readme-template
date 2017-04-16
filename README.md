@@ -6,7 +6,7 @@ Short blurb about what your product does.
 [![Pod Version](https://img.shields.io/badge/Pod-9.9.9-6193DF.svg)](https://cocoapods.org/)
 ![Swift Version](https://img.shields.io/badge/Swift-3.0-orange.svg) 
 ![License MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg) 
-![Plaform](https://img.shields.io/badge/Platform-macOS | iOS | tvOS | watchOS-lightgrey.svg)
+![Plaform](https://img.shields.io/badge/Platform-macOS%20|%20iOS%20|%20tvOS%20|%20watchOS-lightgrey.svg)
 
 One to two paragraph statement about your product and what it does.
 
